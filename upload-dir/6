@@ -1,0 +1,39 @@
+ouasmine,mohammed,amine
+ISBN: 978-1-4028-9462-6
+
+	
+Should match:
+ISBN-13: 978-1-4028-9462-6
+ lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+ISBN: 978-1-4028-9462-6
+ISBN-13 978-1-4028-9462-6
+ lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+ lines or following the machine name denoted by a '#' symbol.
+# ISBN-13: 978-2070637973
+# For example:
+# ISBN-10: 2070637972
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+#	::1             localhost
+ISBN 978-1-4028-9462-6
