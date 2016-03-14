@@ -29,11 +29,6 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 @Controller
 public class FileUploadController {
 
-    @RequestMapping(method=RequestMethod.GET, value="/")
-    //@ResponseBody
-    public String Test(){
-        return "index";
-    }
     @RequestMapping(method= RequestMethod.GET, value="/upload")
     public String provideUploadInfo(Model model) {
         File rootFolder = new File(Application.ROOT);
