@@ -34,6 +34,7 @@ public class FileProcess {
                 //System.out.println(line.substring(start,end));
             }
         }
+        reader.close();
         return list;
     }
 }
