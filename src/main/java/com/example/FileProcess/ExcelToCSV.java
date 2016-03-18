@@ -146,12 +146,12 @@ public class ExcelToCSV {
         }
     }
 
-    public static void main(String[] args)
+    /*public static void main(String[] args)
     {
         File inputFile = new File("C:\\Users\\PC\\Desktop\\Python\\Datas\\Avito - Verticals and Cities index.xlsx");
         File outputFile = new File("C:\\Users\\PC\\Desktop\\Python\\Datas\\Avito .csv");
 
         convertToXlsx(inputFile, outputFile);
         //convertToXlsx(inputFile2, outputFile2);
-    }
+    }*/
 }
